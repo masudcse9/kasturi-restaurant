@@ -1,4 +1,4 @@
-export const restaurantInfo = {
+{
   nameEng: "KASTURI RESTAURANT",
   nameBan: "কস্তুরী রেস্তোরাঁ",
   email: "kasturi.restaurant1979@gmail.com",     // Fixed typo
