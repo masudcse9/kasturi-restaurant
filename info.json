@@ -1,0 +1,17 @@
+export const restaurantInfo = {
+  nameEng: "KASTURI RESTAURANT",
+  nameBan: "কস্তুরী রেস্তোরাঁ",
+  email: "kasturi.restaurant1979@gmail.com",     // Fixed typo
+  mobile: "+880 1323-118811",
+  address: "TA-55/1, Mohakhali Kachabazar, Airport Road, Dhaka-1213",
+  status: "Active",
+  message: "Monthly wise payment.",
+  
+  // Extra useful fields (ভবিষ্যতে কাজে লাগবে)
+  vatNumber: "",                    // যদি থাকে
+  tradeLicense: "",
+  openingTime: "10:00 AM",
+  closingTime: "11:00 PM",
+  currency: "BDT",
+  language: "bn",
+};
