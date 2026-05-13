@@ -1,17 +1,16 @@
-"info": [
-    {
-      nameEng: "KASTURI RESTAURANT",
-      nameBan: "কস্তুরী রেস্তোরাঁ",
-      email: "kasturi.restaurant1979@gmail.com",     
-      mobile: "+880 1323-118811",
-      address: "TA-55/1, Mohakhali Kachabazar, Airport Road, Dhaka-1213",
-      status: "Active",
-      message: "Monthly wise payment.",
-      vatNumber: "",                    
-      tradeLicense: "",
-      openingTime: "10:00 AM",
-      closingTime: "11:00 PM",
-      currency: "BDT",
-      language: "bn",
-    }
-];
+{
+  "success": true,
+  "message": "Data fetched successfully",
+  "data": {
+    "nameEng": "KASTURI RESTAURANT",
+    "nameBan": "কস্তুরী রেস্তোরাঁ",
+    "email": "kasturi.restaurant1979@gmail.com",
+    "mobile": "+880 1323-118811",
+    "address": "TA-55/1, Mohakhali Kachabazar, Airport Road, Dhaka-1213",
+    "status": "Active",
+    "openingTime": "10:00 AM",
+    "closingTime": "11:00 PM",
+    "currency": "BDT",
+    "language": "bn"
+  }
+}
